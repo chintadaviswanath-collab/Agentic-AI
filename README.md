@@ -62,12 +62,12 @@ python main.py
 
 Try asking:
 
-what is the current price of tcs
-calculate average price of infosys for last 3 months
-calculate 20 day sma of tcs
-calculate rsi of reliance
-compare price of tcs and infosys
-show chart of wipro
+1.what is the current price of tcs
+2.calculate average price of infosys for last 3 months
+3.calculate 20 day sma of tcs
+4.calculate rsi of reliance
+5.compare price of tcs and infosys
+6.show chart of wipro
 
 ⚠️ Limitations:
 Depends on yfinance data availability

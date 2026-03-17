@@ -1,0 +1,11 @@
+groq
+pandas
+numpy
+matplotlib
+requests
+beautifulsoup4
+yfinance
+faiss-cpu
+sentence-transformers
+sqlite-utils
+python-dotenv
